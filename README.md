@@ -1,6 +1,6 @@
 
 Banco de Dados da Padaria
-Este é um banco de dados simples chamado PadariaDB, criado para gerenciar informações relacionadas a uma padaria. Ele consiste em quatro tabelas:
+Este é um banco de dados simples chamado Padaria, criado para gerenciar informações relacionadas a uma padaria. Ele consiste em quatro tabelas:
 
 Funcionários: Armazena detalhes sobre os funcionários da padaria, como nome, cargo e salário.
 
